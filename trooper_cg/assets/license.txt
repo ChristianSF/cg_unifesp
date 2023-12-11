@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stormtrooper Walk
+* source:	https://sketchfab.com/3d-models/stormtrooper-walk-dc7237f92c824cd78abc0f5bb4cb6290
+* author:	LostModels2025 (https://sketchfab.com/LostModels2025)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stormtrooper Walk" (https://sketchfab.com/3d-models/stormtrooper-walk-dc7237f92c824cd78abc0f5bb4cb6290) by LostModels2025 (https://sketchfab.com/LostModels2025) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
